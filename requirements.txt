@@ -6,5 +6,5 @@ opencv-python-headless
 Pillow
 pygame
 pywin32
-tensorflow-cpu
+tensorflow-cpu>=2.0.0
 onnxruntime
